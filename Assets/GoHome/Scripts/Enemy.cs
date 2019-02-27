@@ -44,3 +44,5 @@ public class Enemy : MonoBehaviour {
         agent.SetDestination(point.position);
     }
 }
+
+//GITHUB TEST
